@@ -1,0 +1,24 @@
+//factoryu function 
+
+let p1=personMaker("adam",25);
+undefined
+p1
+{name: 'adam', age: 25, talk: ƒ}
+p1.tal
+undefined
+p1.talk();
+app.js:48 hi,my name is adam
+undefined
+let p2=personMaker("eve",25);
+undefined
+p2
+{name: 'eve', age: 25, talk: ƒ}
+p2.talk();
+app.js:48 hi,my name is eve
+undefined
+
+p1.talk===p2.talk
+false
+////////////////////////////////////////////////////////////////////////
+
+

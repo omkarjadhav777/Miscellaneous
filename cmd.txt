@@ -1,0 +1,49 @@
+Windows [Version 10.0.22621.3296]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\oj687>cd Desktop
+
+C:\Users\oj687\Desktop>cd shraddha
+
+C:\Users\oj687\Desktop\shraddha>cd Midcellaneous
+The system cannot find the path specified.
+
+C:\Users\oj687\Desktop\shraddha>cd Miscellaneous
+
+C:\Users\oj687\Desktop\shraddha\Miscellaneous>cd Backed
+The system cannot find the path specified.
+
+C:\Users\oj687\Desktop\shraddha\Miscellaneous>cd Backend
+
+C:\Users\oj687\Desktop\shraddha\Miscellaneous\Backend>npm init -y
+Wrote to C:\Users\oj687\Desktop\shraddha\Miscellaneous\Backend\package.json:
+
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+
+C:\Users\oj687\Desktop\shraddha\Miscellaneous\Backend>npm i express
+
+added 64 packages, and audited 65 packages in 5s
+
+12 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\oj687\Desktop\shraddha\Miscellaneous\Backend>touch index.js
+'touch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\oj687\Desktop\shraddha\Miscellaneous\Backend>
